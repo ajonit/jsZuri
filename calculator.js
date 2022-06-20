@@ -1,4 +1,4 @@
-const operation = prompt("Perform an operation: Mention a for addition, s for subsctraction, m for multiplication and d for division");
+const operation = prompt("Perform an operation: Mention a for addition, s for substraction, m for multiplication and d for division");
 const number1 = Number(prompt("Enter first Number"));
 const number2 = Number(prompt("Enter second Number"));
 
